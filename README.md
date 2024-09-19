@@ -8,3 +8,4 @@ Some benefits of a secure code review include:
 .Educates developers
 .Compliance with industry regulations
 Secure code reviews are most effective when performed frequently, after code is committed or a new pull request is executed. 
+Choosing a programming language and application. Reviewing the code for security vulnerabilities and providing recommendations for secure coding practices. Using tools like static code analyzers or manual code review.
